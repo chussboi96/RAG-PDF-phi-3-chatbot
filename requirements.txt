@@ -1,0 +1,10 @@
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-core==0.1.48
+langchain-nomic==0.0.2
+langchain-openai==0.1.6
+langchain-text-splitters==0.0.1
+langchain_openai==0.2.0
+streamlit==1.7.1
+transformers==4.15.0
+pdfminer.six
